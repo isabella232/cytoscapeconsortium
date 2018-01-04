@@ -109,20 +109,17 @@ article {
 							<div id="attachment_17" style="width: 310px" class="wp-caption aligncenter"><a href="Slide1.png"><img class="img-responsive" alt="Slide1" src="Slide1.png" width="300" height="225" /></a>
 								<p class="wp-caption-text">Figure 1. Projects of the Cytoscape Consortium</p>
 							</div>
-<!--
-							<p>To donate via Paypal:</p>
-       	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-		<input type="hidden" name="cmd" value="_s-xclick">
-		<input type="hidden" name="hosted_button_id" value="UYUEWUL7FNZ3S">
-		<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-		<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 
-		<font style="display:inline-block; font-size:9px; line-height:1.4;">Donations are tax deductible to a 501(c)(3) nonprofit organization, <br />The Cytoscape Consoritum, Tax ID: 20-4909879.</font>
-		</form>
--->
+							<p>To donate via Paypal:</p>
+                            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                                <input type="hidden" name="cmd" value="_s-xclick">
+                                <input type="hidden" name="hosted_button_id" value="PCPFSJMFG8RAU">
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                            </form>
 							<br>
 							<p>To donate via direct wire:
-							<br><b>Name:</b> The Cytoscape Consortium
+							<br><br><b>Name:</b> The Cytoscape Consortium
 							<br><b>Acct:</b> (<a href="mailto:idekerlab.bdemchak@gmail.com">ask us</a>)
 							<br><b>Routing:</b> 026009593 (Bank of America)
 							<br><b>Address:</b> 220 Broadway St, New York, NY 10038</p>
