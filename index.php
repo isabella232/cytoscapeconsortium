@@ -127,12 +127,13 @@ article {
 							<br><b>Routing:</b> 026009593 (Bank of America)
 							<br><b>Address:</b> 220 Broadway St, New York, NY 10038</p>
 						</div>
-						</div>
 						<footer class="entry-meta"> </footer>
 					</article>
 				</div>
 			</div>
 		</div>
+
+
 
 		<footer id="colophon" role="contentinfo">
 
