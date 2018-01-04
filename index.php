@@ -123,7 +123,7 @@ article {
 							<br>
 							<p>To donate via direct wire:
 							<br><b>Name:</b> The Cytoscape Consortium
-							<br><b>Acct:</b> (ask us)
+							<br><b>Acct:</b> (<a href="mailto:idekerlab.bdemchak@gmail.com">ask us</a>)
 							<br><b>Routing:</b> 026009593 (Bank of America)
 							<br><b>Address:</b> 220 Broadway St, New York, NY 10038</p>
 						</div>
